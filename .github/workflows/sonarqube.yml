@@ -38,7 +38,7 @@ on:
 
 jobs:
   Analysis:
-    runs-on: ubuntu-latest:host
+    runs-on: ubuntu-latest
 
     steps:
       - name: Check out
